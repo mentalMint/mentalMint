@@ -7,7 +7,7 @@ I'm the 3rd year student at Faculty of Information Technology, Novosibirsk State
 
 🎤 I listen to different kinds of music, mostly rap. Also I create my own songs.
 
-🛹 I like skateboarding and can make some tricks.
+🛹 I like skateboarding and can do some tricks.
 
 <!--
 **mentalMint/mentalMint** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
