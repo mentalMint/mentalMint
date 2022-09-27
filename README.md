@@ -1,4 +1,4 @@
-# <p align="center"> Hello there⭐🧔⚔️ </p>
+# <p align="center"> Hello there ⭐🧔⚔️ </p>
 
 ## About me ✏️
 I'm the 3rd year student at Faculty of Information Technology, Novosibirsk State University.
