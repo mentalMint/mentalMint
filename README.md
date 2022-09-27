@@ -3,7 +3,7 @@
 ## About me ✏️
 I'm the 3rd year student at Faculty of Information Technology, Novosibirsk State University.
 
-🎓 GPA: 4.7/5.0
+📒 GPA: 4.7/5.0
 
 🎤 I listen to different kinds of music, mostly rap. Also I create my own songs.
 
