@@ -9,7 +9,7 @@ I'm a 3rd year student at Faculty of Information Technology, Novosibirsk State U
 
 🛹 I like skateboarding and can do some tricks.
 
-### 📈 My profile stats:
+### 📈 My profile stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mentalMint&theme=dracula)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mentalMint&theme=dracula)
