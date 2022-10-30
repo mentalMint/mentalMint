@@ -16,7 +16,7 @@ I'm a 3rd year student at Faculty of Information Technology, Novosibirsk State U
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mentalMint&theme=dracula)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mentalMint&theme=dracula)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mentalMint&theme=dracula&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mentalMint&theme=dracula&utcOffset=7)
 <!--
 **mentalMint/mentalMint** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
