@@ -1,7 +1,7 @@
 # <p align="center"> Hello there ⭐🧔⚔️ </p>
 
 ## About me ✏️
-I'm a 3rd year student at Faculty of Information Technology, Novosibirsk State University.
+I'm a 4th year student at Faculty of Information Technology, Novosibirsk State University.
 
 📒 GPA: 4.7/5.0
 
