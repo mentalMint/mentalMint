@@ -1,9 +1,9 @@
 # <p align="center"> Hello there ⭐🧔⚔️ </p>
 
 ## About me ✏️
-I'm a 4th year student at Faculty of Information Technology, Novosibirsk State University.
+I'm in my first year of Master's degree at Faculty of Information Technology, Novosibirsk State University.
 
-📒 GPA: 4.7/5.0
+📒 GPA: 4.76/5.0
 
 🎤 I listen to different kinds of music, mostly rap. Also I create my own songs.
 
